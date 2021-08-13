@@ -153,10 +153,10 @@ a {
 }
 @media screen and (min-width: 699px) {
     main {
-        margin-top: 3vh;
+        margin-top: 4vh;
         display: flex;
         flex-direction: initial;
-        width: 63vw;
+        width: 64vw;
         height: 63vh;
     }
     .first-box {
