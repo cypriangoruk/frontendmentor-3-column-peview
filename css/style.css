@@ -155,7 +155,7 @@ a {
     main {
         display: flex;
         flex-direction: initial;
-        width: 70vw;
+        width: 61vw;
         height: 61vh;
     }
     .first-box {
