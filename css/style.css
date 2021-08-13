@@ -153,10 +153,11 @@ a {
 }
 @media screen and (min-width: 699px) {
     main {
+        margin-top: 3vh;
         display: flex;
         flex-direction: initial;
-        width: 61vw;
-        height: 61vh;
+        width: 65vw;
+        height: 65vh;
     }
     .first-box {
         padding: initial;
